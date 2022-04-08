@@ -1,0 +1,13 @@
+.body .button{
+	background: white;
+}
+div{
+	color: white;
+}
+.button{
+	border: solid black;
+}
+.button:hover{
+background: blue;
+
+}
